@@ -1,5 +1,11 @@
 function Home() {
-  return <h1>Te amo, capeta! ;*</h1>;
+  return (
+    <div>
+      <h1>Em breve</h1>
+      <p>algo legal aqui para você.</p>
+      <a href="https://github.com/biraneves">https://github.com/biraneves</a>
+    </div>
+  );
 }
 
 export default Home;
